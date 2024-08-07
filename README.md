@@ -1,0 +1,1 @@
+Project to create a etch-a-sketch using vanilla javascript dom manipulation
